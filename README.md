@@ -1,4 +1,3 @@
 # moduleA
 
-This is the first test module, Version number 2
-
+This is a repo used as a submodule in the [bridge POC repo](https://github.com/MitchellShiell/bridge)
