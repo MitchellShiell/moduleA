@@ -1,3 +1,3 @@
 # moduleA
 
-This is a test of the commit history in refernce to the main bridge repo
+This is a repo used as a submodule in the [bridge POC repo](https://github.com/MitchellShiell/bridge)
