@@ -1,4 +1,3 @@
 # moduleA
 
-This is the first test module, Version number 2
-
+This is a test of the commit history in refernce to the main bridge repo
